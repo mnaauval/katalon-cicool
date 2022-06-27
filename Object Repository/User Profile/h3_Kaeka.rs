@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Kaeka</name>
+   <tag></tag>
+   <elementGuidId>d982d6b6-03da-4fa6-b08f-7f56c04eb972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section[2]/div/div/div/div/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.widget-user-username.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>3167037b-deec-435b-a8f0-0de0d9aae766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-user-username text-white</value>
+      <webElementGuid>1f9a4326-a5c8-4c4c-b2b8-cfaff1698fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kaeka</value>
+      <webElementGuid>a723a427-f1dc-466d-94ba-41caa4912985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;box box-warning&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;box box-widget widget-user&quot;]/div[@class=&quot;widget-user-header&quot;]/h3[@class=&quot;widget-user-username text-white&quot;]</value>
+      <webElementGuid>4a2fc062-eb10-4347-a3ef-883fcf130990</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section[2]/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>791a4f42-dd0b-4759-882e-00fbd80d0368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[2]/following::h3[1]</value>
+      <webElementGuid>aead2b47-6cba-4371-accd-e84d24572202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/following::h3[1]</value>
+      <webElementGuid>a52b0f60-b7f9-4469-a9d0-7bf36a1e015c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mnaauval'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2f397201-57b6-4cf7-9cd3-30d4caac1484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group User'])[1]/preceding::h3[1]</value>
+      <webElementGuid>372c4294-6111-4200-8299-3fda8dcb6abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8ccb79ad-76d8-4df8-924c-7dc106fa3052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Kaeka' or . = 'Kaeka')]</value>
+      <webElementGuid>afa20429-a0da-4bed-aef8-1abccc1ed62e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
